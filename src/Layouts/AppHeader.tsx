@@ -194,7 +194,7 @@ const AppHeader: React.FC<IAppHeader> = ({ showViewTransfer = false }) => {
         &#9888; The bridge and relayers are described in the documentation{" "}
         <a
           className={clsx(classes.link)}
-          href="https://chainsafe.github.io/ChainBridge/"
+          href="https://docs.chain.link"
           target="_blank"
         >
           here
